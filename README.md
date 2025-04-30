@@ -4,4 +4,4 @@ This is a react project with vite.I make it just for my fun and practice.I use h
 
 
 
-- [Live link](blue-eyed-slope.surge.sh)
+Live link:- blue-eyed-slope.surge.sh
