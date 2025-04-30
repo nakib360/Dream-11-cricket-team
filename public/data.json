@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "role": "Batsman",
+      "rating": 92,
+      "hand": "right-hand-bat",
+      "price": 2500000,
+      "image": "https://c.ndtvimg.com/2025-04/uqln4ccs_virat-kohli_625x300_11_April_25.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": 2,
+      "name": "Ben Stokes",
+      "country": "England",
+      "role": "All-rounder",
+      "rating": 89,
+      "hand": "left-hand-bat",
+      "price": 2300000,
+      "image": "https://e0.365dm.com/22/06/1600x900/skysports-pa-ben-stokes-england_5805019.jpg?20220614201751"
+    },
+    {
+      "id": 3,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "role": "Bowler",
+      "rating": 90,
+      "hand": "right-hand-bat",
+      "price": 2400000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBigcn-V8GDsSIzRf6sj5FeBQoB8hZ28e1Q&s"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "role": "Batsman",
+      "rating": 88,
+      "hand": "right-hand-bat",
+      "price": 2200000,
+      "image": "https://www.middlesexccc.com/media/get/KANE%20WILLIAMSON.jpg"
+    },
+    {
+    "id": 5,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "role": "All-rounder",
+      "rating": 87,
+      "hand": "right-hand-bat",
+      "price": 2100000,
+      "image": "https://i.ytimg.com/vi/bU-wf8QgJQw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDsgWShlMA8=&rs=AOn4CLA3rmCqX-QPF32HSjMJHxqFAhybjw"
+    },
+    {
+      "id": 6,
+      "name": "David Warner",
+      "country": "Australia",
+      "role": "Batsman",
+      "rating": 85,
+      "hand": "left-hand-bat",
+      "price": 1900000,
+      "image": "https://e0.365dm.com/24/10/1600x900/skysports-david-warner-cricket_6724186.jpg?20241022142903"
+    },
+    {
+      "id": 7,
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "role": "Bowler",
+      "rating": 86,
+      "hand": "left-hand-bat",
+      "price": 2000000,
+      "image": "https://e0.365dm.com/21/10/2048x1152/skysports-shaheen-shah-afridi_5537334.jpg?20211006154134"
+    },
+    {
+      "id": 8,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "role": "All-rounder",
+      "rating": 88,
+      "hand": "left-hand-bat",
+      "price": 2200000,
+      "image": "https://tfe-bd.sgp1.cdn.digitaloceanspaces.com/posts/25669/shakibjpg.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Steve Smith",
+      "country": "Australia",
+      "role": "Batsman",
+      "rating": 89,
+      "hand": "right-hand-bat",
+      "price": 2300000,
+      "image": "https://content.api.news/v3/images/bin/9dd2f74c305933f0b519618629ccba1c"
+    },
+    {
+      "id": 10,
+      "name": "Hardik Pandya",
+      "country": "India",
+      "role": "All-rounder",
+      "rating": 84,
+      "hand": "right-hand-bat",
+      "price": 1800000,
+      "image": "https://c.ndtvimg.com/2024-04/b0l6in_hardik-pandya-training-bcci_625x300_02_April_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    }
+  ]
+  
